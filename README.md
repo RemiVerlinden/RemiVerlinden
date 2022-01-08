@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RemiVerlinden
-- 👀 I’m interested in creating video games 
 - 🌱 I’m currently learning C++
 
 <!---
