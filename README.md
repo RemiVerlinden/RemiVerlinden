@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RemiVerlinden
 - 🌱 I’m currently learning C++
+- 🛠 Dipping my toes in the WIN32 api
 
 <!---
 RemiVerlinden/RemiVerlinden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
